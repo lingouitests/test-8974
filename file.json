@@ -1,3 +1,7 @@
  {
-"1":"oooaaaaaone"
+"1":"one\u0022",
+
+"4":"four\?",
+"5":"five\a",
+"6":"six\v"
  }
