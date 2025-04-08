@@ -1,4 +1,4 @@
  {
    "keepPasswordWarning": "WARNING:\nStore your administrator password\r in a safe place.\n\nPassword recovery is not covered by warranty and loss of password may void your warranty.\n\n",
-   "Basic escape sequences demonstration": "Hello\tWorld\nThis is a \"quoted\" string.\nIt has a \\ backslash\nAnd a \nnewline character"
+   "Basic escape sequences demonstration": "HelloWorld\nThis is a \"quoted\" string.\nIt has a \\ backslash\nAnd a \nnewline character"
  }
