@@ -1,7 +1,7 @@
  {
-   "1":"one_json",
-   "2":"two_json",
-   "3":"three_json",
+   "1":"one_json\n",
+   "2":"two_json\r",
+   "3":"three_json\t",
    "4":"four_json",
    "5":"five_json"
  }
